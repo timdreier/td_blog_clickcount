@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages"
+          product-name="forms">
+        <header/>
+        <body>
+            <trans-unit id="pages.tx_tdblogclickcount">
+                <source>Viewcount</source>
+                <target>Anzahl der Aufrufe</target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

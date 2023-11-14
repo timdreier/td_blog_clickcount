@@ -1,0 +1,4 @@
+lib.tdBlogIncreaseCount = USER
+lib.tdBlogIncreaseCount {
+    userFunc = TimDreier\TdBlogClickcount\UserFunc\ClickCountFunctions->increase
+}
